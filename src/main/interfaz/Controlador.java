@@ -12,6 +12,7 @@ public class Controlador {
 					window.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();
+					
 				}
 			}
 		});
